@@ -98,7 +98,7 @@ app.post('/api/contact', async (req, res) => {
 });
 
 // Admin APIs
-const ADMIN_PASSWORD = 'fullenglish2026';
+const ADMIN_PASSWORD = 'cainanfullenglish2026';
 
 app.post('/api/admin/login', (req, res) => {
   const { password } = req.body;
