@@ -1,0 +1,19 @@
+{
+  "pageViews": {
+    "home": 2,
+    "franqueado": 0,
+    "empresas": 0
+  },
+  "contacts": {
+    "home": 0,
+    "franqueado": 0,
+    "empresas": 0
+  },
+  "settings": {
+    "whatsapp": "5511999999999",
+    "email": "contato@fullenglish.com",
+    "webhookHome": "https://hook.us1.make.com/your-webhook-id-home",
+    "webhookFranqueado": "https://hook.us1.make.com/your-webhook-id-franqueado",
+    "webhookEmpresas": "https://hook.us1.make.com/your-webhook-id-empresas"
+  }
+}
